@@ -7,10 +7,10 @@
 <html>
 	<head>
 		<title>Prologue</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<!--	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.css" />
+		<meta http-equiv="Content-Type" content="text/html"; charset=utf-8" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.css" />
 		<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
-		<script src="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.js"></script> -->
+		<script src="http://code.jquery.com/mobile/1.2.1/jquery.mobile-1.2.1.min.js"></script>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
@@ -20,7 +20,7 @@
 			<header id="header" class="alt">
 				<div class="inner">
 					<h1>Prologue</h1>
-					<p>PrologueºÎÅÍ epilogue±îÁö ÇÑÆíÀÇ ¼Ò¼³Ã³·³</a></p>
+					<p>Prologueï¿½ï¿½ï¿½ï¿½ epilogueï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ò¼ï¿½Ã³ï¿½ï¿½</a></p>
 				</div>
 			</header>
 
@@ -47,10 +47,10 @@
 													<div class="col-md-12">
 														<label for="destination">Nation</label>
 														<select name="#" id="destination" class="form-control">
-															<option value="">ÀÌÅ»¸®¾Æ</option>
-															<option value="">½ºÀ§½º</option>
-															<option value="">ÇÁ¶û½º</option>
-															<option value="">µ¶ÀÏ</option>
+															<option value="">ï¿½ï¿½Å»ï¿½ï¿½ï¿½ï¿½</option>
+															<option value="">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</option>
+															<option value="">ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</option>
+															<option value="">ï¿½ï¿½ï¿½ï¿½</option>
 														</select>
 													</div>
 												</div> <br>
@@ -59,10 +59,10 @@
 													<div class="col-md-12">
 														<label for="activities">City</label>
 														<select name="#" id="activities" class="form-control">
-															<option value="">¹Ð¶ó³ë</option>
-															<option value="">·Î¸¶</option>
-															<option value="">º£´Ï½º</option>
-															<option value="">ÇÃ·Î·»½º</option>
+															<option value="">ï¿½Ð¶ï¿½ï¿½</option>
+															<option value="">ï¿½Î¸ï¿½</option>
+															<option value="">ï¿½ï¿½ï¿½Ï½ï¿½</option>
+															<option value="">ï¿½Ã·Î·ï¿½ï¿½ï¿½</option>
 														</select>
 													</div>
 												</div> <br>
@@ -99,9 +99,9 @@
 					
 				<!-- CTA -->
 					<section id="cta" class="main special">
-						<h2>¿©±â ¾î¶§?</h2>
-						<p>ÇÑ±¹ÀÎ¸¸ ¸ð¸£´Â ³²À¯·´ À¯ÇàÁö<br />
-						PrologueºÎÅÍ epilogue±îÁö ³ª¸¸ÀÇ ¿©ÇàÀ» ½ÃÀÛÇØº¸¼¼¿ä<br />
+						<h2>ï¿½ï¿½ï¿½ï¿½ ï¿½î¶§?</h2>
+						<p>ï¿½Ñ±ï¿½ï¿½Î¸ï¿½ ï¿½ð¸£´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½<br />
+						Prologueï¿½ï¿½ï¿½ï¿½ epilogueï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Øºï¿½ï¿½ï¿½ï¿½ï¿½<br />
 						</p>
 						<ul class="actions">
 							<li><a href="#" class="button big">Get Started</a></li>
