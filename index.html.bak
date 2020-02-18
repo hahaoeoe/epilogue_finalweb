@@ -20,7 +20,7 @@
 			<header id="header" class="alt">
 				<div class="inner">
 					<h1>Prologue</h1>
-					<p>Prologue부터 epilogue까지 한편의 영화처럼</a></p>
+					<p>Prologue부터 epilogue까지 한편의 소설처럼</a></p>
 				</div>
 			</header>
 
@@ -93,24 +93,16 @@
 												</div>
 											</form>	
 										</div>
-
-										<div class="search_area">
-			<input class="search_input" id="city_search" placeholder="국가명, 도시명으로 검색">
-			<div id="city_autocomplete"></div>
-			<a class="go_map" href="javascript:void(0)" onclick="et_full_modal('/ko/modal/world_map')">지도에서 검색 ></a>
-			<div class="clear"></div>
-
-
 					</section>
 
 				<!-- Items -->
 					
 				<!-- CTA -->
 					<section id="cta" class="main special">
-						<h2>Etiam veroeros lorem</h2>
-						<p>Phasellus ac augue ac magna auctor tempus proin<br />
-						accumsan lacus a nibh commodo in pellentesque dui<br />
-						in hac habitasse platea dictumst.</p>
+						<h2>여기 어때?</h2>
+						<p>한국인만 모르는 남유럽 유행지<br />
+						Prologue부터 epilogue까지 나만의 여행을 시작해보세요<br />
+						</p>
 						<ul class="actions">
 							<li><a href="#" class="button big">Get Started</a></li>
 						</ul>
